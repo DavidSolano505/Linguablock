@@ -1,0 +1,29 @@
+ul {
+    color: red; font-size: 26px;
+}
+li1 {
+    color: brown
+}
+/* class */
+.inka {
+    color: #54BDF3 ;
+    font-size: 40px;
+}
+
+id 
+#cusco {
+    color:yellow;
+    font-stretch: 10px;
+}
+.main-nav {
+    margin-top: 10px;
+    list-style: none;
+    padding-left: 0px;
+}
+
+header h1 {
+    width: 100%;
+    height: 25px 25px;
+    border: 10px solid #85af85;
+    Padding: 20px 35px
+}
