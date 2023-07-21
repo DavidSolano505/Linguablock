@@ -6,10 +6,24 @@ html{
 } 
 #h2{
     color: blueviolet;
-    text-shadow: 2px 1px black;
+    text-shadow: 2px 1px black ;
+    font-size: 25px;
+    
     
 
 }
 #Introduccion{
     color:rgb(54, 149, 149);
+}
+#Aprendhouse{
+    font-size: 20px;
+    margin-top: 30px;
+    color: slategray;
+}
+
+
+
+#content1{
+    padding: 40px;
+    text-align: center;
 }
