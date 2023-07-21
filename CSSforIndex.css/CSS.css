@@ -1,0 +1,15 @@
+html{
+    padding-left: 88px;
+    box-sizing: inherit;
+    font-family: din-round,sans-serif;
+    margin-right: 90px;
+} 
+#h2{
+    color: blueviolet;
+    text-shadow: 2px 1px black;
+    
+
+}
+#Introduccion{
+    color:rgb(54, 149, 149);
+}
